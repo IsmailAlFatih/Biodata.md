@@ -1,0 +1,8 @@
+# Biodata
+
+**Nama:** Ismail Al Fatih  
+**NIM:** 250605110141  
+**Asal:** Rembang  
+**Prodi:** Teknik Informatika  
+**Motto:** Jangan bilang gak bisa kalau belum mencoba 
+
